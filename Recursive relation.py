@@ -12,13 +12,16 @@ def Fibonacci(n, k):
 
         return 1
         
-    elif n==2: 
+    elif n == 2: 
+        
         return k
 
-    elif n<=4:
+    elif n <=4:
+        
         return Fibonacci(n-1,k) + Fibonacci(n-2,k)
     
     else: 
+        
         return Fibonacci(n-1,k) + Fibonacci(n-2,k)*k
 
 
