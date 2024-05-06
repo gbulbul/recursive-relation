@@ -1,3 +1,4 @@
+#n = number of generation passed, k= number of offsprings which are allowed/determined in each litter.
 def Fibonacci(n, k):
 
     if n < 0:
