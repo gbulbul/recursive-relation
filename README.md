@@ -1,4 +1,4 @@
-In this problem, it is defined a recursive relationship in a way that offsprings at the current generation is equal to how many number of rabbits there have been last two generations ago. It can be shown mathematically as follows: F(n) = F(n-1) + F(n-2) .
+In this problem, it is defined as a recursive relationship in a way that offsprings at the current generation is equal to how many number of rabbits there have been last two generations ago. It can be shown mathematically as follows: F(n) = F(n-1) + F(n-2) .
 In the first generation, assume there is only one pair of adults. 
 Now, it is assumed that for an offspring, it only take one month to become adult and, then to get its own offsprings. 
 Here, each generation refers to one month. 
